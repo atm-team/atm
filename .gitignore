@@ -23,8 +23,43 @@ coverage
 build/Release
 
 # Dependency directory
-# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-gitnode_modules/b*
+
+node_modules/b**
+node_modules/c**
+node_modules/d**
+node_modules/e**
+node_modules/f**
+node_modules/g**
+node_modules/h**
+node_modules/i**
+node_modules/j**
+node_modules/k**
+node_modules/l**
+node_modules/m**
+node_modules/n**
+node_modules/o**
+node_modules/p**
+node_modules/q**
+node_modules/r**
+node_modules/s**
+node_modules/t**
+node_modules/u**
+node_modules/v**
+node_modules/w**
+node_modules/x**
+node_modules/y**
+node_modules/z**
+node_modules/.**
+node_modules/ac**
+node_modules/ad**
+node_modules/am**
+node_modules/an**
+node_modules/ar**
+node_modules/as**
+node_modules/aw**
+
+
 
 # webstorm ide configuration
 .idea

@@ -1,5 +1,14 @@
 {
+  "name": "atm",
+  "bin": {
+    "atm": "bin/atm.js"
+  },
+  "version": "0.8.0",
   "dependencies": {
-    "fis3": "^3.4.22"
+    "extend": "^3.0.0",
+    "fis3": "^3.4.22",
+    "fs-extra": "^0.30.0",
+    "liftoff": "^2.3.0",
+    "minimist": "^1.2.0"
   }
 }
